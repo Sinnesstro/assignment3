@@ -1,0 +1,29 @@
+a {
+    color: black;
+}
+header{
+    border-bottom: 1px solid black;
+}
+
+li {
+    display: inline;
+    margin-right: 66px;
+    
+}
+.first-item{
+    margin-left: 537px;
+}
+h1{
+    margin-left: 609px;
+    margin-top: 270px;
+    color: #7d0000;
+}
+p, span{
+    margin-left: 175px;
+    width: 400px;
+    left: 175px;
+}
+.text {
+    height: 120px;
+    margin-top: 117px;
+}
